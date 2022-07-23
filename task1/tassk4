@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!DOCTYPE html>
+<html lang="en">
+<hea <title>Document</title>
+</head>
+<body>
+<h4> list</h4>
+<ol type ="1">
+<li>programming language</li><ul>
+ <li>java script</li>
+ <li> angular</li>
+ <li>react</li>
+ <li>we.js</li>   
+ <ol>
+<ul type="cicrle">
+    <h2> python</h2>
+</ul>
+<ul type="disk">
+</ol>
+<ol>
+<li> ojange framework</li>
+<li> flask framework</li>
+</ol>
+<ol>
+    <li>  spring</li>
+    <li> maven></li>
+    <li> hibrrnate</li>
+</ol>
+<ol>
+    <ul> database</ul>
+    <li> mysql</li>
+    <li>mongo</li>
+    <li> cansandra</li>
+</ol>
+ 

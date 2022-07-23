@@ -1,0 +1,9 @@
+div{
+    displayL:inline;
+    background-image:url('./images/nature-image-for-website.jpg');
+    padding:80px;
+}
+span{
+    display:block;
+    background-image:url'./images/nature-image-for-website.jpg');
+}

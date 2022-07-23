@@ -1,0 +1,4 @@
+div{
+    background-image=gradient( red,blue,green);
+    font-size: 30px;
+}

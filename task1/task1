@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!DOCTYPE html>
+<html lang="en">
+<hea <title>Document</title>
+</head>
+<body>
+ <h3 align=" center"> different between js vs node js using html </h3>
+ <table align ="center" border="8" width="500" height="300">
+    <thead>
+        <tr>
+            <th>s.no</th>
+            <th rowspan> brower vj</th>
+            <th colspan> node vj </th>
+        </tr>
+        <tr>
+            <th>Javascript is a Scripting language. It is mostly abbreviated as JS</th>
+            <th>NodeJS is a cross-platform and opensource Javascript runtime environment </th>
+        </tr>
+        <tr>
+            <th>igh-level programming language</th> 
+            <th>Nodejs allows Javascript code to run outside the browser</th>
+        </tr>   
+        <tr>
+            <th>Javascript can only be run in the browsers</th>
+            <th>It is mostly used on the server-side</th>
+        </tr>
+        <tr>
+            <th>Javascript is used in frontend development</th>
+            <th> Nodejs is used in server-side development</th>
+        </tr>
+        <tr>
+            <th>Javascript can run in any browser engine as like JS core Spider</th>
+            <th>Some of the Nodejs modules are Lodash express </th>
+        </tr>
+        <form class="example" action="action_page.php">
+            <input type="text" placeholder="Search.." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+         </form>
